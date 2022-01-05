@@ -2,7 +2,8 @@
 layout: post
 title: "本質的に無職になった"
 date: 2022-01-03 18:49:59 +0900
-categories: 人生
+categories: life
+tags: [人生]
 ---
 
 昨年末に最終出社をして本質的に無職になった[^1]。
