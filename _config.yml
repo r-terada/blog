@@ -29,7 +29,7 @@ github_username: r-terada
 
 # Build settings
 theme: minima
-google_analytics: G-BQK9E6WPTB
+google_analytics: UA-216487753-1
 plugins:
   - jekyll-feed
 
